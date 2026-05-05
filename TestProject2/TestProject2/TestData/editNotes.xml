@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEditNoteData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EditNoteData>
+    <OriginalText>Original note 0</OriginalText>
+    <EditedText>Edited note 0</EditedText>
+  </EditNoteData>
+  <EditNoteData>
+    <OriginalText>Original note 1</OriginalText>
+    <EditedText>Edited note 1</EditedText>
+  </EditNoteData>
+  <EditNoteData>
+    <OriginalText>Original note 2</OriginalText>
+    <EditedText>Edited note 2</EditedText>
+  </EditNoteData>
+</ArrayOfEditNoteData>

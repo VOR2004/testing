@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestDataGenerator/TestDataGenerator.csproj" Id="dc2afd4d-40e1-443b-9de9-ab13ab73d13c" />
+  <Project Path="TestProject2/TestProject2.csproj" />
+</Solution>
