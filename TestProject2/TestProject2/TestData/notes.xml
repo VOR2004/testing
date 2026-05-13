@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNoteData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NoteData>
+    <Text>Generated note 0</Text>
+  </NoteData>
+  <NoteData>
+    <Text>Generated note 1</Text>
+  </NoteData>
+</ArrayOfNoteData>
